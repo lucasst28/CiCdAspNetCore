@@ -1,0 +1,6 @@
+@CiCdAspNetCore_HostAddress = http://localhost:5274
+
+GET {{CiCdAspNetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
